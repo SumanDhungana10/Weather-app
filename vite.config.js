@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Weather-app/dist",
+  base: "https://sumandhungana10.github.io/Weather-app/",
   plugins: [react()],
 })
